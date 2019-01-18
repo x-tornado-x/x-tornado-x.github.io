@@ -1,3 +1,7 @@
 body{
   background-color:#efefef;
+  margin:0;
+}
+h1{
+  margin-top:0;
 }
